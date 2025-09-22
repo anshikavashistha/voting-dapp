@@ -201,49 +201,7 @@ npm run build
 - **Wallet Authentication**: Secure user identification
 - **Transaction Signing**: All operations require wallet approval
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
-## 🆘 Troubleshooting
-
-### Common Issues
-
-1. **"Wallet not connected"**
-   - Ensure your wallet is properly installed and unlocked
-   - Check if you're on the correct network (localhost for development)
-
-2. **"Transaction failed"**
-   - Verify you have sufficient SOL for transaction fees
-   - Check if the local validator is running
-
-3. **"Program not found"**
-   - Make sure the smart contract is deployed
-   - Verify the program ID in your configuration
-
-### Getting Help
-
-- Check the [Solana Documentation](https://docs.solana.com/)
-- Visit [Anchor Documentation](https://www.anchor-lang.com/)
-- Open an issue in this repository
-
-## 🔮 Future Enhancements
-
-- [ ] Poll categories and tags
-- [ ] Advanced voting mechanisms (ranked choice, etc.)
-- [ ] Poll analytics and charts
-- [ ] Social features (comments, sharing)
-- [ ] Mobile app development
-- [ ] Integration with other Solana programs
-
----
-
-**Built with ❤️ using Solana, Anchor, and Next.js**
